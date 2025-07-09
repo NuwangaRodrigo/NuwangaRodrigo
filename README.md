@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Nuwanga 👋</h1>
 
 <p align="center">
-  <b>Back-End Software Engineer</b> | C# / .NET Core / SQL / Azure  
+  <b>FullStack Engineer</b> | C# / .NET Core / SQL / Azure  
   <br/>
   Focused on clean architecture, scalable systems, and real-world business solutions.
 </p>
